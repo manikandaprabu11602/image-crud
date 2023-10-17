@@ -10,6 +10,7 @@ Route::get('/', function () {
 });
 
 
+kkkkkkkkkkkk
 
 // Route::get('/', function () {
 //     return view('welcome');

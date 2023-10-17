@@ -8,3 +8,13 @@ Route::resource('images', 'ImageController');
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
